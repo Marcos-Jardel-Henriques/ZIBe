@@ -1,0 +1,14 @@
+Beta01;Beta02;Beta03;Beta04;Beta05;Beta06;Beta07;Beta08;Beta09;Beta10;Beta11;Beta12;Beta13;Beta14
+beta_nu_0;beta_nu_0;beta_nu_0;beta_nu_0;beta_nu_0;beta_nu_0;beta_nu_0;beta_nu_0;beta_nu_0;beta_nu_0;beta_nu_0;beta_nu_0;beta_nu_0;beta_nu_0
+beta_mu_0;beta_nu_AV;beta_nu_AV;beta_nu_AV;beta_nu_AV;beta_nu_AV;beta_nu_AV;beta_nu_AV;beta_nu_AV;beta_nu_AV;beta_nu_AV;beta_nu_AV;beta_nu_AV;beta_nu_AV
+beta_sg_0;beta_mu_0;beta_nu_AV2;beta_nu_AV2;beta_nu_AV2;beta_nu_AV2;beta_nu_AV2;beta_nu_AV2;beta_nu_AV2;beta_nu_AV2;beta_nu_AV2;beta_nu_AV2;beta_nu_AV2;beta_nu_AV2
+sigma_u_nu;beta_sg_0;beta_mu_0;beta_nu_AV3;beta_nu_PE;beta_nu_GE;beta_nu_PE;beta_nu_PE;beta_nu_PE;beta_nu_PE;beta_nu_PE;beta_nu_PE;beta_nu_PE;beta_nu_PE
+;sigma_u_nu;beta_sg_0;beta_mu_0;beta_mu_0;beta_mu_0;beta_nu_GE;beta_nu_GE;beta_nu_GE;beta_nu_GE;beta_nu_GE;beta_nu_GE;beta_nu_GE;beta_nu_GE
+;;sigma_u_nu;beta_sg_0;beta_sg_0;beta_sg_0;beta_mu_0;beta_mu_0;beta_mu_0;beta_mu_0;beta_mu_0;beta_mu_0;beta_mu_0;beta_mu_0
+;;;sigma_u_nu;sigma_u_nu;sigma_u_nu;beta_sg_0;beta_sg_0;beta_mu_AV;beta_mu_AV;beta_mu_AV;beta_mu_AV;beta_mu_AV;beta_mu_AV
+;;;;;;sigma_u_nu;sigma_u_nu;beta_sg_0;beta_mu_AV2;beta_mu_AV2;beta_mu_PE;beta_mu_AV2;beta_mu_GE
+;;;;;;;sigma_u_mu;sigma_u_nu;beta_sg_0;beta_mu_AV3;beta_sg_0;beta_mu_GE;beta_mu_PE
+;;;;;;;;sigma_u_mu;sigma_u_nu;beta_sg_0;sigma_u_nu;beta_mu_PE;beta_sg_0
+;;;;;;;;;sigma_u_mu;sigma_u_nu;sigma_u_mu;beta_sg_0;sigma_u_nu
+;;;;;;;;;;sigma_u_mu;;sigma_u_nu;sigma_u_mu
+;;;;;;;;;;;;sigma_u_mu;
